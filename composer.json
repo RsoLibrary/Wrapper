@@ -4,7 +4,8 @@
     "description": "Rso Library Wrapper Class",
     "keywords": ["Rso","RsoLibrary","Library", "Wrapper", "Container", "Hazbo"],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "rso/lib" : "dev-master"
     },
     "autoload": {
         "psr-0": { "Rso\\Component": "src" }
